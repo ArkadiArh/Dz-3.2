@@ -1,0 +1,16 @@
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\Dz 3.2.exe
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\Dz 3.2.deps.json
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\Dz 3.2.runtimeconfig.json
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\Dz 3.2.runtimeconfig.dev.json
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\Dz 3.2.dll
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\ref\Dz 3.2.dll
+B:\Проекты C#\Dz 3.2\Dz 3.2\bin\Debug\net5.0\Dz 3.2.pdb
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.csproj.AssemblyReference.cache
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.GeneratedMSBuildEditorConfig.editorconfig
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.AssemblyInfoInputs.cache
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.AssemblyInfo.cs
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.csproj.CoreCompileInputs.cache
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.dll
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\ref\Dz 3.2.dll
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.pdb
+B:\Проекты C#\Dz 3.2\Dz 3.2\obj\Debug\net5.0\Dz 3.2.genruntimeconfig.cache
